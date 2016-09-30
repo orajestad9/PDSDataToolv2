@@ -8,8 +8,11 @@ namespace PDSDataTool
 {
     class Program
     {
+        public UserReq ur = new UserReq();
+
         static void Main(string[] args)
         {
+            
         }
     }
 }
